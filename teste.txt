@@ -1,11 +1,11 @@
-8.	OBJETIVO:
+OBJETIVO:
 
 O objetivo deste projeto foi implementar um processo de qualidade de testes funcionais que garanta a qualidade dos testes, assegurando que as aplicações funcionem conforme o esperado e detectando bugs durante o processo de desenvolvimento. Para alcançar esse objetivo, foi proposta a metodologia BDD, na qual os requisitos de negócios são definidos como Critério de Aceitação e os requisitos funcionais como Cenários de Testes, vinculados às histórias de usuários.
 Os projetos eHealth Screen Module e Workflow Stroke HC foram selecionados para participar deste projeto. Para cada um desses projetos, foram realizados testes de navegabilidade (Front End) e testes de análise de dados e cálculos. A metodologia BDD foi aplicada de forma a garantir a qualidade dos testes e permitir a detecção precoce de erros, contribuindo para a entrega de aplicações mais robustas e confiáveis.
 
 Dica: Descrever o objetivo do projeto, suas motivações, etc..... Apresentar a solução proposta por este projeto, descrevendo quais os algoritmos, técnicas ou metodologias serão/foram empregadas em seu desenvolvimento. Informar se estão sendo agregadas características/funcionalidades novas e quais.
 
-9.	PROBLEMA TÉCNICO-CIENTÍFICO:
+PROBLEMA TÉCNICO-CIENTÍFICO:
 
 O problema a ser solucionado era garantir o entendimento dos requisitos de negócios esperados, para que novos releases pudessem ser considerados concluídos e implementados. Para solucionar esse problema, foi necessário definir quais requisitos funcionais deveriam ser testados, de forma a atender aos requisitos de negócios mapeados.
 
@@ -13,6 +13,6 @@ Para executar o projeto, foram utilizados diversos recursos, incluindo análise 
 
 Dica: Apresentar qual o problema específico este desenvolvimento se propôs a resolver, o que motivou o desenvolvimento do hardware e/ou software. Descrever claramente as motivações do projeto. Em caso de projetos de múltiplos anos, evidenciar a evolução ao longo dos anos.
 
-10.	CARACTERÍSTICA INOVATIVA:
+CARACTERÍSTICA INOVATIVA:
 
 Dica: Descrever as características inovadoras do projeto.
